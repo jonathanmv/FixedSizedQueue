@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EagleEye.Foundation
+namespace Jonathanmv.Foundation
 {
     /// <summary>
     /// A fixed size queue that returns the dequeued object if the queue is full when a new object
